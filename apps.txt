@@ -1,0 +1,5 @@
+# Purpose-selected Flathub app IDs
+net.ankiweb.Anki
+org.libreoffice.LibreOffice
+org.mozilla.firefox
+com.opera.opera-gx
