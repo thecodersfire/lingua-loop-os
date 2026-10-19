@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/lingua-loop-os-workspace features/lingua-loop-os-plan features/lingua-loop-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for language learning:
+
+1. **Zotero** — org.zotero.Zotero
+2. **Foliate** — com.github.johnfactotum.Foliate
+3. **VSCodium** — com.vscodium.codium
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
